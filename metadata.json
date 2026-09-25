@@ -1,0 +1,6 @@
+{
+  "name": "SubScope - Subdomain Enumeration & Reconnaissance",
+  "description": "Professional cybersecurity reconnaissance tool for discovering, verifying, and analyzing accessible subdomains with real-time streaming, DNS verification, and security metadata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
