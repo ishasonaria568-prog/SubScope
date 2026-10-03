@@ -1,0 +1,6 @@
+# SubScope - Subdomain Enumeration and Reconnaissance Tool
+#
+# Dependencies:
+# SubScope is engineered using the Python 3 standard library only.
+# No external third-party packages are required to run this tool.
+# Required environment: Python >= 3.8

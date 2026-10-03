@@ -1,0 +1,6 @@
+{
+  "name": "SubScope - Subdomain Enumeration & Recon CLI",
+  "description": "A fast, modular CLI subdomain reconnaissance tool for Kali Linux with multithreaded DNS resolution, HTTP probing, and multi-format reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
